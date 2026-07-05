@@ -1,0 +1,26 @@
+body {
+  font-family: Verdana, Tahoma, Segoe UI, sans;
+  background: white;
+  background-image: url("../img/ladne.bmp"), url("../img/wvnet.gif");
+  background-position: left top, right bottom;
+  background-attachment: fixed;
+  background-position-x: top;
+  background-position-y: left;
+  background-repeat: no-repeat;
+}
+a {
+  color: blue;
+}
+p.ask {
+  font-family: Times New Roman;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 160%;
+}
+p.ans {
+  font-family: Verdana;
+}
+.cover {
+  width: 900px;
+}
+
